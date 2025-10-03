@@ -8,3 +8,4 @@ Nëse ndonjëherë nuk hapet automatikisht atëherë mund të hapësh manualisht
 . Pas kësaj do të shfaqet faqja kryesore e aplikacionit dhe mund të përdoret normalisht.
 
 Kjo eshte e gjitha sa i përket startimit dhe navigimit nëpër projekt.
+<img width="1916" height="909" alt="Screenshot 2025-10-03 180742" src="https://github.com/user-attachments/assets/dcce3bc5-e6ad-4ab0-bd45-c96db4830027" />
